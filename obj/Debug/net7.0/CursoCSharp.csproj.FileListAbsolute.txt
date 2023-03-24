@@ -1,0 +1,15 @@
+/home/emiliano/Desktop/CursoCSharp/bin/Debug/net7.0/CursoCSharp
+/home/emiliano/Desktop/CursoCSharp/bin/Debug/net7.0/CursoCSharp.deps.json
+/home/emiliano/Desktop/CursoCSharp/bin/Debug/net7.0/CursoCSharp.runtimeconfig.json
+/home/emiliano/Desktop/CursoCSharp/bin/Debug/net7.0/CursoCSharp.dll
+/home/emiliano/Desktop/CursoCSharp/bin/Debug/net7.0/CursoCSharp.pdb
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.csproj.AssemblyReference.cache
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.AssemblyInfoInputs.cache
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.AssemblyInfo.cs
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.dll
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/refint/CursoCSharp.dll
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.pdb
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/CursoCSharp.genruntimeconfig.cache
+/home/emiliano/Desktop/CursoCSharp/obj/Debug/net7.0/ref/CursoCSharp.dll
